@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("UsefulSnippets")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A set of utilities that are used frequently")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("xNovax")]
 [assembly: AssemblyProduct("UsefulSnippets")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
